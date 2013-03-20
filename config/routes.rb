@@ -1,4 +1,9 @@
 RailsinstallerOsxDemo::Application.routes.draw do
+<<<<<<< HEAD
+=======
+  get "welcome/index"
+
+>>>>>>> 97fa610adecb42f28e111760bfc4beda7e416079
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
@@ -48,7 +53,11 @@ RailsinstallerOsxDemo::Application.routes.draw do
 
   # You can have the root of your site routed with "root"
   # just remember to delete public/index.html.
+<<<<<<< HEAD
   # root :to => 'welcome#index'
+=======
+  root :to => 'welcome#index'
+>>>>>>> 97fa610adecb42f28e111760bfc4beda7e416079
 
   # See how all your routes lay out with "rake routes"
 

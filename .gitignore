@@ -13,3 +13,12 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+<<<<<<< HEAD
+=======
+doc/
+*.swp
+*~
+.project
+.DS_Store
+.idea
+>>>>>>> 97fa610adecb42f28e111760bfc4beda7e416079
